@@ -1,0 +1,7 @@
+username: Daniele
+password: 3Tqo1UM8xLOZj3QV
+
+1) {depth: {$gt: 10}}
+2) 2 ms (from "Explain Plan" section)
+3) (i created the index in the "Indexes" section)
+4) 0 ms (probably lower than 1 ms)
